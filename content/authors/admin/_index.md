@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shinya Takamatsu
+title: 
 
 # Is this the primary user of the site?
 superuser: true
